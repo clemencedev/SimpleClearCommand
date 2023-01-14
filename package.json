@@ -11,7 +11,7 @@
     "url": "git+https://github.com/clemencedev/SimpleClearCommand.git"
   },
   "author": "Clémence (clemencedev)",
-  "license": "Unlicense",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/clemencedev/SimpleClearCommand/issues"
   },
