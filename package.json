@@ -1,0 +1,22 @@
+{
+  "name": "simpleclearcommand",
+  "version": "1.0.0",
+  "description": "A simple DiscordJS bot clear command.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemencedev/SimpleClearCommand.git"
+  },
+  "author": "Clémence (clemencedev)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/clemencedev/SimpleClearCommand/issues"
+  },
+  "homepage": "https://github.com/clemencedev/SimpleClearCommand#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
